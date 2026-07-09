@@ -1,0 +1,5 @@
+user=input("Enter your name:")
+print("namaste "+(user))
+city=input("Enter your city:\n")
+petname=input("Enter your pet name:\n")
+print("ur brand name is : "+ city + " " + petname)
