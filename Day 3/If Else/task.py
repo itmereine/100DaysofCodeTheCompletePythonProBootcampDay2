@@ -6,3 +6,4 @@ if height < 5:
 
 else:
     print("ur hight is good so u can go on ride")
+    print("have a fun ride")
