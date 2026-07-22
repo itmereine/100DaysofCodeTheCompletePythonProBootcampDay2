@@ -1,15 +1,12 @@
 #def my_function():
-   # print("Hello")
-  #  print("aru")
- #   print("Bye")
+# print("Hello")
+#  print("aru")
+#   print("Bye")
 #my_function()
 
-#Creating the function
-def get_user_name():
-    name = input("What is your name? ")
-    print("Hello, " + name)
-    # Inside the function
 
-#Outside the function
-print("Hello")
-get_user_name() # Calling the function
+def tryi():
+    a = 3
+    if a >2:
+        print("Hello World")
+tryi()
